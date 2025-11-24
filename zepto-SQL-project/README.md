@@ -1,15 +1,17 @@
 
 # Zepto SQL Data Analysis
 
-📌 Project Summary
+## 📌 Project Summary
 
 The dataset contains product-level attributes such as category, pricing, discounts, weight, and stock status.
 The goal is to clean the data, understand product distribution, identify inconsistencies, and derive insights that can help in pricing, inventory, and category-level decisions.
+---
 
+>![logo](logo.jpeg)
 
 ---
 
-📂 Dataset Fields
+## 📂 Dataset Fields
 
 sku_id – Unique product ID
 
@@ -35,7 +37,7 @@ quantity – Pack quantity
 
 ---
 
-🧪 Data Exploration
+## 🧪 Data Exploration
 
 Key exploration steps:
 
@@ -55,7 +57,7 @@ Find duplicate product names
 
 ---
 
-🧹 Data Cleaning
+## 🧹 Data Cleaning
 
 Removed products with mrp = 0
 
@@ -69,7 +71,7 @@ Checked for abnormal or inconsistent attributes
 
 ---
 
-📊 Data Analysis Questions Answered
+## 📊 Data Analysis Questions Answered
 
 The project includes analytical queries such as:
 
@@ -92,7 +94,7 @@ The project includes analytical queries such as:
 
 ---
 
-📁 How to Run
+## 📁 How to Run
 
 1. Import the SQL file into PostgreSQL or any SQL-compatible environment.
 
@@ -110,7 +112,7 @@ The project includes analytical queries such as:
 
 ---
 
-🎯 Skills Demonstrated
+## 🎯 Skills Demonstrated
 
 SQL Data Cleaning
 
